@@ -54,7 +54,6 @@ itsdangerous==2.0.1
 jedi @ file:///opt/conda/conda-bld/jedi_1642692183413/work
 Jinja2==3.0.3
 jmespath==0.10.0
-joblib==1.1.0
 jsonlines==1.2.0
 jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
 jupyter-client==7.1.2
